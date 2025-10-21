@@ -34,8 +34,8 @@ The script uses standard Python libraries, so no special `pip` installations are
     Example `participants.csv`:
     ```csv
     Name,Email,Event
-    Jofin Joji,jofinjoji@example.com,Python Workshop
-    Meera Paul,meerapaul@example.com,Data Science Webinar
+    Nogil Binu,nogilbinu@example.com,Python Workshop
+    No Name,noname@example.com,Data Science Webinar
     ```
 
 3.  **Add Certificates:**
