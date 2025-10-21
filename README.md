@@ -39,7 +39,7 @@ The script uses standard Python libraries, so no special `pip` installations are
     ```
 
 3.  **Add Certificates:**
-    Place the certificate files in the `certificates` directory. The certificate for each participant must be named in the format: `participant_name_certificate.png`. For example, for a participant named "Jofin Joji", the certificate should be named `jofin_joji_certificate.png`.
+    Place the certificate files in the `certificates` directory. The certificate for each participant must be named in the format: `participant_name_certificate.png`. For example, for a participant named "Nogil Binu", the certificate should be named `Nogil_Binu_certificate.png`.
 
 4.  **Run the Script:**
     Execute the script from your terminal:
