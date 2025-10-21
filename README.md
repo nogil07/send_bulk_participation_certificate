@@ -52,8 +52,7 @@ The script uses standard Python libraries, so no special `pip` installations are
 ```
 .
 ├── certificates/
-│   ├── Jofin_Joji_certificate.png
-│   └── Meera_Paul_certificate.png
+│   ├── Nogil_Binu_certificate.png  
 ├── participants.csv
 ├── send_certificate.py
 └── sending_report.csv (Generated after running the script)
